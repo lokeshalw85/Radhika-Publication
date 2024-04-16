@@ -1,8 +1,6 @@
 <?php
 function booklist() {
-
-    $booklist =  [
-        
+    $booklist =  [ 
         'new-alphabet' => [
             'url' => 'http://radhikapublication.in/redirect.php?book=new-alphabet',
             'name' => 'New - Alphabet',
@@ -842,3 +840,4 @@ function booklist() {
 
     return $booklist;
 }
+//End

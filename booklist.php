@@ -358,56 +358,56 @@ function booklist() {
         'nav-srajan-hindi-vyakaran-1' => [
             'url' => 'http://radhikapublication.in/redirect.php?book=nav-srajan-hindi-vyakaran-1',
             'name' => 'Nav Srajan - ( Hindi Vyakaran ) - 1',
-            'list_code' => null,
+            'list_code' => 'PLegZ2mKuidjOonyQ7_zGRUiDeHDp1loJp',
             'shortcode' => null
         ],
         
         'nav-srajan-hindi-vyakaran-2' => [
             'url' => 'http://radhikapublication.in/redirect.php?book=nav-srajan-hindi-vyakaran-2',
             'name' => 'Nav Srajan - ( Hindi Vyakaran ) - 2',
-            'list_code' => null,
+            'list_code' => 'PLegZ2mKuidjPymZzpLtt13IHx5YyXWftl',
             'shortcode' => null
         ],
     
         'nav-srajan-hindi-vyakaran-3' => [
             'url' => 'http://radhikapublication.in/redirect.php?book=nav-srajan-hindi-vyakaran-3',
             'name' => 'Nav Srajan - ( Hindi Vyakaran ) - 3',
-            'list_code' => null,
+            'list_code' => 'PLegZ2mKuidjOeaqU31_LNRodUKt8hNlnR',
             'shortcode' => null
         ],
     
         'nav-srajan-hindi-vyakaran-4' => [
             'url' => 'http://radhikapublication.in/redirect.php?book=nav-srajan-hindi-vyakaran-4',
             'name' => 'Nav Srajan - ( Hindi Vyakaran ) - 4',
-            'list_code' => null,
+            'list_code' => 'PLegZ2mKuidjPFXQ54Dz0XCkAypJmiZ1cq',
             'shortcode' => null
         ],
     
         'nav-srajan-hindi-vyakaran-5' => [
             'url' => 'http://radhikapublication.in/redirect.php?book=nav-srajan-hindi-vyakaran-5',
             'name' => 'Nav Srajan - ( Hindi Vyakaran ) - 5',
-            'list_code' => null,
+            'list_code' => 'PLegZ2mKuidjOGUquHHDPXrjo-J00lYOCz',
             'shortcode' => null
         ],
     
         'nav-srajan-hindi-vyakaran-6' => [
             'url' => 'http://radhikapublication.in/redirect.php?book=nav-srajan-hindi-vyakaran-6',
             'name' => 'Nav Srajan - ( Hindi Vyakaran ) - 6',
-            'list_code' => null,
+            'list_code' => 'PLegZ2mKuidjOlZC2vzLo9XiPvC-rBRlMc',
             'shortcode' => null
         ],
     
         'nav-srajan-hindi-vyakaran-7' => [
             'url' => 'http://radhikapublication.in/redirect.php?book=nav-srajan-hindi-vyakaran-7',
             'name' => 'Nav Srajan - ( Hindi Vyakaran ) - 7',
-            'list_code' => null,
+            'list_code' => 'PLegZ2mKuidjOubDLoO7Gcr18n2jQ2HVTf',
             'shortcode' => null
         ],
     
         'nav-srajan-hindi-vyakaran-8' => [
             'url' => 'http://radhikapublication.in/redirect.php?book=nav-srajan-hindi-vyakaran-8',
             'name' => 'Nav Srajan - ( Hindi Vyakaran ) - 8',
-            'list_code' => null,
+            'list_code' => 'PLegZ2mKuidjMPXR-7QvSak69IKxqPOLQV',
             'shortcode' => null
         ],
     
@@ -686,42 +686,42 @@ function booklist() {
         'explorer-science-3' => [
             'url' => 'http://radhikapublication.in/redirect.php?book=explorer-science-3',
             'name' => 'Explorer Science - 3',
-            'list_code' => null,
+            'list_code' => 'PLegZ2mKuidjNw6v1jfI8fxgLT4-pZE_E9',
             'shortcode' => null
         ],
     
         'explorer-science-4' => [
             'url' => 'http://radhikapublication.in/redirect.php?book=explorer-science-4',
             'name' => 'Explorer Science - 4',
-            'list_code' => null,
+            'list_code' => 'PLegZ2mKuidjOLIgcctKrh7f_oBZ2RahsP',
             'shortcode' => null
         ],
     
         'explorer-science-5' => [
             'url' => 'http://radhikapublication.in/redirect.php?book=explorer-science-5',
             'name' => 'Explorer Science - 5',
-            'list_code' => null,
+            'list_code' => 'PLegZ2mKuidjNvRp7LASwwazKGjJ3fTML1',
             'shortcode' => null
         ],
     
         'explorer-science-6' => [
             'url' => 'http://radhikapublication.in/redirect.php?book=explorer-science-6',
             'name' => 'Explorer Science - 6',
-            'list_code' => null,
+            'list_code' => 'PLegZ2mKuidjOBE-b1KBfZka49L5B8NYVX',
             'shortcode' => null
         ],
     
         'explorer-science-7' => [
             'url' => 'http://radhikapublication.in/redirect.php?book=explorer-science-7',
             'name' => 'Explorer Science - 7',
-            'list_code' => null,
+            'list_code' => 'PLegZ2mKuidjPVxnSHLH6To1HypXZuel9W',
             'shortcode' => null
         ],
     
         'explorer-science-8' => [
             'url' => 'http://radhikapublication.in/redirect.php?book=explorer-science-8',
             'name' => 'Explorer Science - 8',
-            'list_code' => null,
+            'list_code' => 'PLegZ2mKuidjNVcCGKFTlaQXQ7Ylh1H73u',
             'shortcode' => null
         ],
     
